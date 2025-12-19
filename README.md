@@ -34,4 +34,4 @@ This project is a fully automated recruitment workflow built with **n8n**. It us
 3. Activate the workflow and start the Telegram Bot.
 
 ---
-**Developed by:** [Your Name]
+**Developed by:** [srilakshmi regalla]
