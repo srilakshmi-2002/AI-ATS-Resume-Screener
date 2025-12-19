@@ -35,3 +35,8 @@ This project is a fully automated recruitment workflow built with **n8n**. It us
 
 ---
 **Developed by:** [srilakshmi regalla]
+
+## 🔗 Live Demo
+You can try the bot live on Telegram here: [AI ATS Bot](https://t.me/sippi2002_bot)
+
+*Note: Please send a PDF or ZIP file to get your ATS score.*
